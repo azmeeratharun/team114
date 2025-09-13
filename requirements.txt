@@ -8,3 +8,6 @@ torch
 accelerate
 huggingface-hub
 python-dotenv
+matplotlib
+googletrans==4.0.0-rc1
+pyflowchart
