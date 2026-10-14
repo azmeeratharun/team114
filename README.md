@@ -375,7 +375,7 @@ This project is licensed under the **MIT License**, allowing others to use, copy
 
 See the [LICENSE](LICENSE) file for the complete license text.
 
-Copyright (c) 2026 Azmeer Atharun
+Copyright (c) 2026 Azmeera Tharun
 
 ## 👨‍💻 Author
 
