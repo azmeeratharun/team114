@@ -369,9 +369,13 @@ Problem: Answers are irrelevant
 
 Verify that text extraction succeeds and that the semantic search component retrieves passages relevant to the question.
 
-## 📜 License
+## ## 📄 License
 
-No license information has been specified here. Add a suitable open-source license, such as the MIT License, only after deciding how you want others to use, modify, and distribute your project.
+This project is licensed under the **MIT License**, allowing others to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the software, subject to the license terms.
+
+See the [LICENSE](LICENSE) file for the complete license text.
+
+Copyright (c) 2026 Azmeer Atharun
 
 ## 👨‍💻 Author
 
